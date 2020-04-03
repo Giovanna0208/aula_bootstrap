@@ -1,0 +1,36 @@
+.navbar {
+    background-color: wheat;
+}
+
+.cor_rosa {
+    background-color: rgba(216, 113, 113, 0.993);
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.margin2 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.margin3 {
+    padding-bottom: 100px;
+}
+
+.margin_lado {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+footer {
+    background-color: wheat;
+    color: rgba(216, 113, 113, 0.993);
+}
+
+h1 {
+    font-family: fantasy;
+    color: wheat;
+}
